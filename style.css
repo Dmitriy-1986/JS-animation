@@ -1,0 +1,15 @@
+.container {
+    max-width: 1000px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+button {
+    display: inline;
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin-top: 60px;
+}
